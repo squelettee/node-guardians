@@ -2,7 +2,7 @@
 
 ## Description
 
-Node-Guardians is a repository dedicated to documenting knowledge acquired while progressing through the quests on nodeguardians.io. Each quest undertaken will have a corresponding folder containing notes and a wiki. These notes will encompass relevant information regarding the development process and the concepts learned.
+Node-Guardians is a repository dedicated to documenting knowledge acquired while progressing through the quests on [nodeguardians.io](https://nodeguardians.io/). Each quest undertaken will have a corresponding folder containing notes and a wiki. These notes will encompass relevant information regarding the development process and the concepts learned.
 
 ## Structure
 
